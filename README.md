@@ -1,6 +1,6 @@
 # rg-wrangle
 
-## Othello, the Moore of Venice
+[The Merry Wives of Windsor]
 
 - speaker 1: Emilia
 - speaker 2: Othello
